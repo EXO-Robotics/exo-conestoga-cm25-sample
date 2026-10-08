@@ -1,0 +1,86 @@
+{
+  "axle-pillow--1": [
+    "service-31"
+  ],
+  "axle-pillow-1": [
+    "service-31"
+  ],
+  "main-beater": [
+    "service-10"
+  ],
+  "paddle-01": [
+    "service-85"
+  ],
+  "paddle-02": [
+    "service-85"
+  ],
+  "paddle-03": [
+    "service-85"
+  ],
+  "paddle-04": [
+    "service-85"
+  ],
+  "paddle-05": [
+    "service-85"
+  ],
+  "paddle-06": [
+    "service-85"
+  ],
+  "paddle-07": [
+    "service-85"
+  ],
+  "paddle-08": [
+    "service-85"
+  ],
+  "paddle-09": [
+    "service-85"
+  ],
+  "paddle-10": [
+    "service-85"
+  ],
+  "paddle-11": [
+    "service-85"
+  ],
+  "paddle-12": [
+    "service-85"
+  ],
+  "upper-shredder": [
+    "service-12"
+  ],
+  "bearing-main--1": [
+    "service-22"
+  ],
+  "sleeve-main--1": [
+    "service-14"
+  ],
+  "bearing-main-1": [
+    "service-22"
+  ],
+  "sleeve-main-1": [
+    "service-14"
+  ],
+  "bearing-upper--1": [
+    "service-22"
+  ],
+  "sleeve-upper--1": [
+    "service-14"
+  ],
+  "bearing-upper-1": [
+    "service-22"
+  ],
+  "sleeve-upper-1": [
+    "service-14"
+  ],
+  "top-guard": [
+    "service-13"
+  ],
+  "drive-sprocket-idler": [
+    "service-18"
+  ],
+  "roller-chain-main": [
+    "service-29"
+  ],
+  "roller-chain-upper": [
+    "service-29"
+  ]
+}

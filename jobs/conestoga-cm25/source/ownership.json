@@ -1,0 +1,925 @@
+[
+  {
+    "sourceBodyId": "box-weldment",
+    "label": "Welded steel box",
+    "assembly": "Box & apron",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "box-weldment",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "poly-floor",
+    "label": "Poly-vinyl floor boards",
+    "assembly": "Box & apron",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "poly-floor",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "floor-apron",
+    "label": "Apron chain & crossbars",
+    "assembly": "Box & apron",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "floor-apron",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "drawbar",
+    "label": "A-frame drawbar",
+    "assembly": "Hitch & controls",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "drawbar",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "jack",
+    "label": "Standard drop-foot jack",
+    "assembly": "Hitch & controls",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "jack",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "engagement-controls",
+    "label": "Drive engagement levers",
+    "assembly": "Hitch & controls",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "engagement-controls",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "ground-axle",
+    "label": "Ground-drive axle",
+    "assembly": "Wheels & ground drive",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "ground-axle",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "axle-pillow--1",
+    "label": "Axle pillow block \u00b7 left",
+    "assembly": "Wheels & ground drive",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "axle-pillow--1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "axle-pillow-1",
+    "label": "Axle pillow block \u00b7 right",
+    "assembly": "Wheels & ground drive",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "axle-pillow-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "tire--1",
+    "label": "6\u201312 traction tire",
+    "assembly": "Left traction wheel",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "tire--1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "rim--1",
+    "label": "Pressed steel rim",
+    "assembly": "Left traction wheel",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "rim--1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "wheel-hub--1",
+    "label": "Wheel ratchet hub",
+    "assembly": "Left traction wheel",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "wheel-hub--1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "tire-1",
+    "label": "6\u201312 traction tire",
+    "assembly": "Right traction wheel",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "tire-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "rim-1",
+    "label": "Pressed steel rim",
+    "assembly": "Right traction wheel",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "rim-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "wheel-hub-1",
+    "label": "Wheel ratchet hub",
+    "assembly": "Right traction wheel",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "wheel-hub-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "main-beater",
+    "label": "Main beater shaft & welded arms",
+    "assembly": "Main beater",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "main-beater",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "paddle-01",
+    "label": "Rooster-comb paddle 01",
+    "assembly": "Paddle 01",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-01",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-01-1",
+    "label": "Paddle 01 mounting bolt 1",
+    "assembly": "Paddle 01",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-01-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-01-2",
+    "label": "Paddle 01 mounting bolt 2",
+    "assembly": "Paddle 01",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-01-2",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-02",
+    "label": "Rooster-comb paddle 02",
+    "assembly": "Paddle 02",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-02",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-02-1",
+    "label": "Paddle 02 mounting bolt 1",
+    "assembly": "Paddle 02",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-02-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-02-2",
+    "label": "Paddle 02 mounting bolt 2",
+    "assembly": "Paddle 02",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-02-2",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-03",
+    "label": "Rooster-comb paddle 03",
+    "assembly": "Paddle 03",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-03",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-03-1",
+    "label": "Paddle 03 mounting bolt 1",
+    "assembly": "Paddle 03",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-03-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-03-2",
+    "label": "Paddle 03 mounting bolt 2",
+    "assembly": "Paddle 03",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-03-2",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-04",
+    "label": "Rooster-comb paddle 04",
+    "assembly": "Paddle 04",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-04",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-04-1",
+    "label": "Paddle 04 mounting bolt 1",
+    "assembly": "Paddle 04",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-04-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-04-2",
+    "label": "Paddle 04 mounting bolt 2",
+    "assembly": "Paddle 04",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-04-2",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-05",
+    "label": "Rooster-comb paddle 05",
+    "assembly": "Paddle 05",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-05",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-05-1",
+    "label": "Paddle 05 mounting bolt 1",
+    "assembly": "Paddle 05",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-05-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-05-2",
+    "label": "Paddle 05 mounting bolt 2",
+    "assembly": "Paddle 05",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-05-2",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-06",
+    "label": "Rooster-comb paddle 06",
+    "assembly": "Paddle 06",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-06",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-06-1",
+    "label": "Paddle 06 mounting bolt 1",
+    "assembly": "Paddle 06",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-06-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-06-2",
+    "label": "Paddle 06 mounting bolt 2",
+    "assembly": "Paddle 06",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-06-2",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-07",
+    "label": "Rooster-comb paddle 07",
+    "assembly": "Paddle 07",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-07",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-07-1",
+    "label": "Paddle 07 mounting bolt 1",
+    "assembly": "Paddle 07",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-07-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-07-2",
+    "label": "Paddle 07 mounting bolt 2",
+    "assembly": "Paddle 07",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-07-2",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-08",
+    "label": "Rooster-comb paddle 08",
+    "assembly": "Paddle 08",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-08",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-08-1",
+    "label": "Paddle 08 mounting bolt 1",
+    "assembly": "Paddle 08",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-08-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-08-2",
+    "label": "Paddle 08 mounting bolt 2",
+    "assembly": "Paddle 08",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-08-2",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-09",
+    "label": "Rooster-comb paddle 09",
+    "assembly": "Paddle 09",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-09",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-09-1",
+    "label": "Paddle 09 mounting bolt 1",
+    "assembly": "Paddle 09",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-09-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-09-2",
+    "label": "Paddle 09 mounting bolt 2",
+    "assembly": "Paddle 09",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-09-2",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-10",
+    "label": "Rooster-comb paddle 10",
+    "assembly": "Paddle 10",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-10",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-10-1",
+    "label": "Paddle 10 mounting bolt 1",
+    "assembly": "Paddle 10",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-10-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-10-2",
+    "label": "Paddle 10 mounting bolt 2",
+    "assembly": "Paddle 10",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-10-2",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-11",
+    "label": "Rooster-comb paddle 11",
+    "assembly": "Paddle 11",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-11",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-11-1",
+    "label": "Paddle 11 mounting bolt 1",
+    "assembly": "Paddle 11",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-11-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-11-2",
+    "label": "Paddle 11 mounting bolt 2",
+    "assembly": "Paddle 11",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-11-2",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-12",
+    "label": "Rooster-comb paddle 12",
+    "assembly": "Paddle 12",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-12",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-12-1",
+    "label": "Paddle 12 mounting bolt 1",
+    "assembly": "Paddle 12",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-12-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "paddle-fastener-12-2",
+    "label": "Paddle 12 mounting bolt 2",
+    "assembly": "Paddle 12",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "paddle-fastener-12-2",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative hardware; no independent service number"
+  },
+  {
+    "sourceBodyId": "upper-shredder",
+    "label": "Upper shredder assembly",
+    "assembly": "Upper spreader",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "upper-shredder",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "bearing-main--1",
+    "label": "Flange bearing \u00b7 left",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "bearing-main--1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "sleeve-main--1",
+    "label": "Beater pipe sleeve \u00b7 main left",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "sleeve-main--1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "bearing-main-1",
+    "label": "Flange bearing \u00b7 right",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "bearing-main-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "sleeve-main-1",
+    "label": "Beater pipe sleeve \u00b7 main right",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "sleeve-main-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "bearing-upper--1",
+    "label": "Flange bearing \u00b7 left",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "bearing-upper--1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "sleeve-upper--1",
+    "label": "Beater pipe sleeve \u00b7 upper left",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "sleeve-upper--1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "bearing-upper-1",
+    "label": "Flange bearing \u00b7 right",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "bearing-upper-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "sleeve-upper-1",
+    "label": "Beater pipe sleeve \u00b7 upper right",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "sleeve-upper-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "top-guard",
+    "label": "Top beater guard",
+    "assembly": "Rear beater & upper spreader",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "top-guard",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "drive-sprocket-lower",
+    "label": "Drive sprocket \u00b7 lower",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "drive-sprocket-lower",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed; tooth count illustrative"
+  },
+  {
+    "sourceBodyId": "drive-sprocket-input",
+    "label": "Drive sprocket \u00b7 input",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "drive-sprocket-input",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed; tooth count illustrative"
+  },
+  {
+    "sourceBodyId": "drive-sprocket-upper",
+    "label": "Drive sprocket \u00b7 upper",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "drive-sprocket-upper",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed; tooth count illustrative"
+  },
+  {
+    "sourceBodyId": "drive-sprocket-transfer",
+    "label": "Drive sprocket \u00b7 transfer",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "drive-sprocket-transfer",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed; tooth count illustrative"
+  },
+  {
+    "sourceBodyId": "drive-sprocket-idler",
+    "label": "Drive sprocket \u00b7 idler",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "drive-sprocket-idler",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed; tooth count illustrative"
+  },
+  {
+    "sourceBodyId": "roller-chain-main",
+    "label": "Roller chain \u00b7 main drive",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "roller-chain-main",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative chain routing; supply length unresolved"
+  },
+  {
+    "sourceBodyId": "roller-chain-upper",
+    "label": "Roller chain \u00b7 upper transfer",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "roller-chain-upper",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "illustrative chain routing; supply length unresolved"
+  },
+  {
+    "sourceBodyId": "side-guard--1",
+    "label": "Left drive chain shield",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "side-guard--1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  },
+  {
+    "sourceBodyId": "side-guard-1",
+    "label": "Right ratchet shield",
+    "assembly": "Beater drive & bearings",
+    "identifierEvidence": {
+      "status": "source-identifier",
+      "identifier": "side-guard-1",
+      "sourceReferences": [
+        "Authored occurrence; manual 2020 p9-10"
+      ]
+    },
+    "geometryFidelity": "reference reconstructed"
+  }
+]

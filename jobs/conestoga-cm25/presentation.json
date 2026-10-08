@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "scopes": [
+    {
+      "match": {
+        "label": "Rear beater & upper spreader"
+      },
+      "cameraDirection": [
+        1.8,
+        0.7,
+        -0.45
+      ],
+      "contextBodyIds": [
+        "top-guard",
+        "bearing-main--1",
+        "bearing-main-1",
+        "bearing-upper--1",
+        "bearing-upper-1"
+      ],
+      "contextOpacity": 0.16,
+      "description": "Rear service view \u00b7 main beater and upper spreader with shaft supports. Top guard is dimmed to expose the existing mechanism.",
+      "focusBodyIds": [
+        "main-beater",
+        "upper-shredder"
+      ]
+    },
+    {
+      "match": {
+        "label": "Main beater"
+      },
+      "cameraDirection": [
+        1.8,
+        0.65,
+        -0.45
+      ],
+      "contextBodyIds": [
+        "bearing-main--1",
+        "bearing-main-1"
+      ],
+      "contextOpacity": 0.24,
+      "description": "Main beater \u00b7 choose a paddle to inspect its two mounting bolts and receiving rotor."
+    },
+    {
+      "match": {
+        "label": "Paddle 01"
+      },
+      "cameraDirection": [
+        -1.8,
+        0.5,
+        1
+      ],
+      "contextBodyIds": [
+        "main-beater"
+      ],
+      "contextOpacity": 0.23,
+      "description": "Paddle 01 \u00b7 two mounting bolts with the receiving beater rotor. Confirm paddle inclusion and fastener supply."
+    },
+    {
+      "match": {
+        "label": "Paddle 02"
+      },
+      "cameraDirection": [
+        -1.8,
+        0.15,
+        1
+      ],
+      "contextBodyIds": [
+        "main-beater"
+      ],
+      "contextOpacity": 0.23,
+      "description": "Paddle 02 \u00b7 two mounting bolts with the receiving beater rotor. Confirm paddle inclusion and fastener supply."
+    },
+    {
+      "match": {
+        "label": "Paddle 03"
+      },
+      "cameraDirection": [
+        -1.8,
+        0.5,
+        -1
+      ],
+      "contextBodyIds": [
+        "main-beater"
+      ],
+      "contextOpacity": 0.23,
+      "description": "Paddle 03 \u00b7 two mounting bolts with the receiving beater rotor. Confirm paddle inclusion and fastener supply."
+    },
+    {
+      "match": {
+        "label": "Paddle 04"
+      },
+      "cameraDirection": [
+        -1.8,
+        1.3,
+        0.5
+      ],
+      "contextBodyIds": [
+        "main-beater"
+      ],
+      "contextOpacity": 0.23,
+      "description": "Paddle 04 \u00b7 two mounting bolts with the receiving beater rotor. Confirm paddle inclusion and fastener supply."
+    },
+    {
+      "match": {
+        "label": "Paddle 05"
+      },
+      "cameraDirection": [
+        -1.8,
+        0.5,
+        1
+      ],
+      "contextBodyIds": [
+        "main-beater"
+      ],
+      "contextOpacity": 0.23,
+      "description": "Paddle 05 \u00b7 two mounting bolts with the receiving beater rotor. Confirm paddle inclusion and fastener supply."
+    },
+    {
+      "match": {
+        "label": "Paddle 06"
+      },
+      "cameraDirection": [
+        -1.8,
+        0.15,
+        1
+      ],
+      "contextBodyIds": [
+        "main-beater"
+      ],
+      "contextOpacity": 0.23,
+      "description": "Paddle 06 \u00b7 two mounting bolts with the receiving beater rotor. Confirm paddle inclusion and fastener supply."
+    },
+    {
+      "match": {
+        "label": "Paddle 07"
+      },
+      "cameraDirection": [
+        -1.8,
+        0.5,
+        -1
+      ],
+      "contextBodyIds": [
+        "main-beater"
+      ],
+      "contextOpacity": 0.23,
+      "description": "Paddle 07 \u00b7 two mounting bolts with the receiving beater rotor. Confirm paddle inclusion and fastener supply."
+    },
+    {
+      "match": {
+        "label": "Paddle 08"
+      },
+      "cameraDirection": [
+        -1.8,
+        1.3,
+        0.5
+      ],
+      "contextBodyIds": [
+        "main-beater"
+      ],
+      "contextOpacity": 0.23,
+      "description": "Paddle 08 \u00b7 two mounting bolts with the receiving beater rotor. Confirm paddle inclusion and fastener supply."
+    },
+    {
+      "match": {
+        "label": "Paddle 09"
+      },
+      "cameraDirection": [
+        -1.8,
+        0.5,
+        1
+      ],
+      "contextBodyIds": [
+        "main-beater"
+      ],
+      "contextOpacity": 0.23,
+      "description": "Paddle 09 \u00b7 two mounting bolts with the receiving beater rotor. Confirm paddle inclusion and fastener supply."
+    },
+    {
+      "match": {
+        "label": "Paddle 10"
+      },
+      "cameraDirection": [
+        -1.8,
+        0.15,
+        1
+      ],
+      "contextBodyIds": [
+        "main-beater"
+      ],
+      "contextOpacity": 0.23,
+      "description": "Paddle 10 \u00b7 two mounting bolts with the receiving beater rotor. Confirm paddle inclusion and fastener supply."
+    },
+    {
+      "match": {
+        "label": "Paddle 11"
+      },
+      "cameraDirection": [
+        -1.8,
+        0.5,
+        -1
+      ],
+      "contextBodyIds": [
+        "main-beater"
+      ],
+      "contextOpacity": 0.23,
+      "description": "Paddle 11 \u00b7 two mounting bolts with the receiving beater rotor. Confirm paddle inclusion and fastener supply."
+    },
+    {
+      "match": {
+        "label": "Paddle 12"
+      },
+      "cameraDirection": [
+        -1.8,
+        1.3,
+        0.5
+      ],
+      "contextBodyIds": [
+        "main-beater"
+      ],
+      "contextOpacity": 0.23,
+      "description": "Paddle 12 \u00b7 two mounting bolts with the receiving beater rotor. Confirm paddle inclusion and fastener supply."
+    }
+  ]
+}

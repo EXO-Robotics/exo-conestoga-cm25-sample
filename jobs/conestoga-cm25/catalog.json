@@ -1,0 +1,366 @@
+[
+  {
+    "id": "service-10",
+    "name": "Main beater",
+    "manufacturerPartNumber": "CMP-CS10211",
+    "groupLabel": "2020 manual reference",
+    "configuration": "CM-25 · 2020 manual",
+    "compatibility": "Confirm serial fit and current availability.",
+    "quantityNote": "Manual lists 1 · combined CM-25 / CM-50 table.",
+    "reviewNote": "Shaft and welded arms; confirm supplied assembly contents.",
+    "referenceUrl": "https://conestogamanurespreaders.b-cdn.net/wp-content/uploads/2022/08/OpsManual_Conestoga-25-50-final-after-fix-with-disclaimer.pdf#page=9",
+    "confirmationRoute": {
+      "label": "Call 855-822-1976",
+      "href": "tel:8558221976"
+    },
+    "source": {
+      "document": "October 15 2020 CM-25/CM-50 manual",
+      "tablePage": 9,
+      "figurePage": 10,
+      "item": 10,
+      "printedQuantity": 1
+    },
+    "identity": "published-source-identifier",
+    "mapping": "proposed",
+    "applicability": "confirmation-required",
+    "sellableUnit": "unknown",
+    "offer": "confirmation-required",
+    "OEMApproval": "unknown",
+    "sourceSku": null,
+    "sourceCallout": "10",
+    "searchAliases": [
+      "Main Beater",
+      "Figure 2 item 10",
+      "item 10"
+    ],
+    "sourceRevision": "conestoga-2020-10-15",
+    "sourceFigure": "Figure 2 · table page 9 / drawing page 10 · combined CM-25 / CM-50 table",
+    "sourceQuantity": 1,
+    "sellingUnit": "unknown",
+    "sourceRevisionLabel": "CM-25 / CM-50 manual · October 15, 2020"
+  },
+  {
+    "id": "service-12",
+    "name": "Upper shredder assembly",
+    "manufacturerPartNumber": "CMP-CS10217",
+    "groupLabel": "2020 manual reference",
+    "configuration": "CM-25 · 2020 manual",
+    "compatibility": "Confirm serial fit and current availability.",
+    "quantityNote": "Manual lists 1 · combined CM-25 / CM-50 table.",
+    "reviewNote": "Slicing elements shown as one assembly; no separate blade number.",
+    "referenceUrl": "https://conestogamanurespreaders.b-cdn.net/wp-content/uploads/2022/08/OpsManual_Conestoga-25-50-final-after-fix-with-disclaimer.pdf#page=9",
+    "confirmationRoute": {
+      "label": "Call 855-822-1976",
+      "href": "tel:8558221976"
+    },
+    "source": {
+      "document": "October 15 2020 CM-25/CM-50 manual",
+      "tablePage": 9,
+      "figurePage": 10,
+      "item": 12,
+      "printedQuantity": 1
+    },
+    "identity": "published-source-identifier",
+    "mapping": "proposed",
+    "applicability": "confirmation-required",
+    "sellableUnit": "unknown",
+    "offer": "confirmation-required",
+    "OEMApproval": "unknown",
+    "sourceSku": null,
+    "sourceCallout": "12",
+    "searchAliases": [
+      "Upper Shreader Assy",
+      "Figure 2 item 12",
+      "item 12"
+    ],
+    "sourceRevision": "conestoga-2020-10-15",
+    "sourceFigure": "Figure 2 · table page 9 / drawing page 10 · combined CM-25 / CM-50 table",
+    "sourceQuantity": 1,
+    "sellingUnit": "unknown",
+    "sourceRevisionLabel": "CM-25 / CM-50 manual · October 15, 2020"
+  },
+  {
+    "id": "service-13",
+    "name": "Top beater guard",
+    "manufacturerPartNumber": "CMP-CS10214",
+    "groupLabel": "2020 manual reference",
+    "configuration": "CM-25 · 2020 manual",
+    "compatibility": "Confirm serial fit and current availability.",
+    "quantityNote": "Manual lists 1 · combined CM-25 / CM-50 table.",
+    "reviewNote": "Curved guard reconstructed from the drawing and reference photos.",
+    "referenceUrl": "https://conestogamanurespreaders.b-cdn.net/wp-content/uploads/2022/08/OpsManual_Conestoga-25-50-final-after-fix-with-disclaimer.pdf#page=9",
+    "confirmationRoute": {
+      "label": "Call 855-822-1976",
+      "href": "tel:8558221976"
+    },
+    "source": {
+      "document": "October 15 2020 CM-25/CM-50 manual",
+      "tablePage": 9,
+      "figurePage": 10,
+      "item": 13,
+      "printedQuantity": 1
+    },
+    "identity": "published-source-identifier",
+    "mapping": "proposed",
+    "applicability": "confirmation-required",
+    "sellableUnit": "unknown",
+    "offer": "confirmation-required",
+    "OEMApproval": "unknown",
+    "sourceSku": null,
+    "sourceCallout": "13",
+    "searchAliases": [
+      "Top Beattre Guard",
+      "Figure 2 item 13",
+      "item 13"
+    ],
+    "sourceRevision": "conestoga-2020-10-15",
+    "sourceFigure": "Figure 2 · table page 9 / drawing page 10 · combined CM-25 / CM-50 table",
+    "sourceQuantity": 1,
+    "sellingUnit": "unknown",
+    "sourceRevisionLabel": "CM-25 / CM-50 manual · October 15, 2020"
+  },
+  {
+    "id": "service-14",
+    "name": "Beater pipe sleeve",
+    "manufacturerPartNumber": "CMP-CS10224",
+    "groupLabel": "2020 manual reference",
+    "configuration": "CM-25 · 2020 manual",
+    "compatibility": "Confirm serial fit and current availability.",
+    "quantityNote": "Manual lists 4 · combined CM-25 / CM-50 table.",
+    "reviewNote": "Four listed in the combined manual; confirm location and sleeve dimensions.",
+    "referenceUrl": "https://conestogamanurespreaders.b-cdn.net/wp-content/uploads/2022/08/OpsManual_Conestoga-25-50-final-after-fix-with-disclaimer.pdf#page=9",
+    "confirmationRoute": {
+      "label": "Call 855-822-1976",
+      "href": "tel:8558221976"
+    },
+    "source": {
+      "document": "October 15 2020 CM-25/CM-50 manual",
+      "tablePage": 9,
+      "figurePage": 10,
+      "item": 14,
+      "printedQuantity": 4
+    },
+    "identity": "published-source-identifier",
+    "mapping": "proposed",
+    "applicability": "confirmation-required",
+    "sellableUnit": "unknown",
+    "offer": "confirmation-required",
+    "OEMApproval": "unknown",
+    "sourceSku": null,
+    "sourceCallout": "14",
+    "searchAliases": [
+      "Beater Pipe Sleeve",
+      "Figure 2 item 14",
+      "item 14"
+    ],
+    "sourceRevision": "conestoga-2020-10-15",
+    "sourceFigure": "Figure 2 · table page 9 / drawing page 10 · combined CM-25 / CM-50 table",
+    "sourceQuantity": 4,
+    "sellingUnit": "unknown",
+    "sourceRevisionLabel": "CM-25 / CM-50 manual · October 15, 2020"
+  },
+  {
+    "id": "service-18",
+    "name": "Drive sprocket",
+    "manufacturerPartNumber": "CMP-CS10121",
+    "groupLabel": "2020 manual reference",
+    "configuration": "CM-25 · 2020 manual",
+    "compatibility": "Confirm serial fit and current availability.",
+    "quantityNote": "Manual lists 4 · combined CM-25 / CM-50 table.",
+    "reviewNote": "Shown at a proposed idler location. Confirm this sprocket by diagram item 18.",
+    "referenceUrl": "https://conestogamanurespreaders.b-cdn.net/wp-content/uploads/2022/08/OpsManual_Conestoga-25-50-final-after-fix-with-disclaimer.pdf#page=9",
+    "confirmationRoute": {
+      "label": "Call 855-822-1976",
+      "href": "tel:8558221976"
+    },
+    "source": {
+      "document": "October 15 2020 CM-25/CM-50 manual",
+      "tablePage": 9,
+      "figurePage": 10,
+      "item": 18,
+      "printedQuantity": 4
+    },
+    "identity": "published-source-identifier",
+    "mapping": "proposed",
+    "applicability": "confirmation-required",
+    "sellableUnit": "unknown",
+    "offer": "confirmation-required",
+    "OEMApproval": "unknown",
+    "sourceSku": null,
+    "sourceCallout": "18",
+    "searchAliases": [
+      "Sprocket",
+      "Figure 2 item 18",
+      "item 18"
+    ],
+    "sourceRevision": "conestoga-2020-10-15",
+    "sourceFigure": "Figure 2 · table page 9 / drawing page 10 · combined CM-25 / CM-50 table",
+    "sourceQuantity": 4,
+    "sellingUnit": "unknown",
+    "sourceRevisionLabel": "CM-25 / CM-50 manual · October 15, 2020"
+  },
+  {
+    "id": "service-22",
+    "name": "UCFL205-16 flange bearing",
+    "manufacturerPartNumber": "CMP-CS10132",
+    "groupLabel": "2020 manual reference",
+    "configuration": "CM-25 · 2020 manual",
+    "compatibility": "Confirm serial fit and current availability.",
+    "quantityNote": "Manual lists 4 · combined CM-25 / CM-50 table.",
+    "reviewNote": "Two-bolt flange form. Confirm shaft size and installed bearing.",
+    "referenceUrl": "https://conestogamanurespreaders.b-cdn.net/wp-content/uploads/2022/08/OpsManual_Conestoga-25-50-final-after-fix-with-disclaimer.pdf#page=9",
+    "confirmationRoute": {
+      "label": "Call 855-822-1976",
+      "href": "tel:8558221976"
+    },
+    "source": {
+      "document": "October 15 2020 CM-25/CM-50 manual",
+      "tablePage": 9,
+      "figurePage": 10,
+      "item": 22,
+      "printedQuantity": 4
+    },
+    "identity": "published-source-identifier",
+    "mapping": "proposed",
+    "applicability": "confirmation-required",
+    "sellableUnit": "unknown",
+    "offer": "confirmation-required",
+    "OEMApproval": "unknown",
+    "sourceSku": null,
+    "sourceCallout": "22",
+    "searchAliases": [
+      "UCFL205-16 Flange Bearing",
+      "Figure 2 item 22",
+      "item 22"
+    ],
+    "sourceRevision": "conestoga-2020-10-15",
+    "sourceFigure": "Figure 2 · table page 9 / drawing page 10 · combined CM-25 / CM-50 table",
+    "sourceQuantity": 4,
+    "sellingUnit": "unknown",
+    "sourceRevisionLabel": "CM-25 / CM-50 manual · October 15, 2020"
+  },
+  {
+    "id": "service-29",
+    "name": "Roller chain 60",
+    "manufacturerPartNumber": "CMP-CS10124",
+    "groupLabel": "2020 manual reference",
+    "configuration": "CM-25 · 2020 manual",
+    "compatibility": "Confirm serial fit and current availability.",
+    "quantityNote": "Manual lists 1 · combined CM-25 / CM-50 table.",
+    "reviewNote": "Two illustrated runs. Chain length and supplied unit remain unconfirmed.",
+    "referenceUrl": "https://conestogamanurespreaders.b-cdn.net/wp-content/uploads/2022/08/OpsManual_Conestoga-25-50-final-after-fix-with-disclaimer.pdf#page=9",
+    "confirmationRoute": {
+      "label": "Call 855-822-1976",
+      "href": "tel:8558221976"
+    },
+    "source": {
+      "document": "October 15 2020 CM-25/CM-50 manual",
+      "tablePage": 9,
+      "figurePage": 10,
+      "item": 29,
+      "printedQuantity": 1
+    },
+    "identity": "published-source-identifier",
+    "mapping": "proposed",
+    "applicability": "confirmation-required",
+    "sellableUnit": "unknown",
+    "offer": "confirmation-required",
+    "OEMApproval": "unknown",
+    "sourceSku": null,
+    "sourceCallout": "29",
+    "searchAliases": [
+      "Roller Chain 60",
+      "Figure 2 item 29",
+      "item 29"
+    ],
+    "sourceRevision": "conestoga-2020-10-15",
+    "sourceFigure": "Figure 2 · table page 9 / drawing page 10 · combined CM-25 / CM-50 table",
+    "sourceQuantity": 1,
+    "sellingUnit": "unknown",
+    "sourceRevisionLabel": "CM-25 / CM-50 manual · October 15, 2020"
+  },
+  {
+    "id": "service-31",
+    "name": "GTG P207 pillow block",
+    "manufacturerPartNumber": "CMP-CS10118",
+    "groupLabel": "2020 manual reference",
+    "configuration": "CM-25 · 2020 manual",
+    "compatibility": "Confirm serial fit and current availability.",
+    "quantityNote": "Manual lists 2 · combined CM-25 / CM-50 table.",
+    "reviewNote": "Axle support location; this is not a rotor-end flange bearing.",
+    "referenceUrl": "https://conestogamanurespreaders.b-cdn.net/wp-content/uploads/2022/08/OpsManual_Conestoga-25-50-final-after-fix-with-disclaimer.pdf#page=9",
+    "confirmationRoute": {
+      "label": "Call 855-822-1976",
+      "href": "tel:8558221976"
+    },
+    "source": {
+      "document": "October 15 2020 CM-25/CM-50 manual",
+      "tablePage": 9,
+      "figurePage": 10,
+      "item": 31,
+      "printedQuantity": 2
+    },
+    "identity": "published-source-identifier",
+    "mapping": "proposed",
+    "applicability": "confirmation-required",
+    "sellableUnit": "unknown",
+    "offer": "confirmation-required",
+    "OEMApproval": "unknown",
+    "sourceSku": null,
+    "sourceCallout": "31",
+    "searchAliases": [
+      "GTG P207 Pillow Block",
+      "Figure 2 item 31",
+      "item 31"
+    ],
+    "sourceRevision": "conestoga-2020-10-15",
+    "sourceFigure": "Figure 2 · table page 9 / drawing page 10 · combined CM-25 / CM-50 table",
+    "sourceQuantity": 2,
+    "sellingUnit": "unknown",
+    "sourceRevisionLabel": "CM-25 / CM-50 manual · October 15, 2020"
+  },
+  {
+    "id": "service-85",
+    "name": "Rooster-comb paddle",
+    "manufacturerPartNumber": "CMP-CS1002",
+    "groupLabel": "2020 manual reference",
+    "configuration": "CM-25 · 2020 manual",
+    "compatibility": "Confirm serial fit and current availability.",
+    "quantityNote": "12 installed · selling quantity unconfirmed.",
+    "reviewNote": "Required hardware ships with the part, invoiced separately.",
+    "referenceUrl": "https://conestogamanurespreaders.b-cdn.net/wp-content/uploads/2022/08/OpsManual_Conestoga-25-50-final-after-fix-with-disclaimer.pdf#page=9",
+    "confirmationRoute": {
+      "label": "Call 855-822-1976",
+      "href": "tel:8558221976"
+    },
+    "source": {
+      "document": "October 15 2020 CM-25/CM-50 manual",
+      "tablePage": 9,
+      "figurePage": 10,
+      "item": 85,
+      "printedQuantity": 12
+    },
+    "identity": "published-source-identifier",
+    "mapping": "proposed",
+    "applicability": "confirmation-required",
+    "sellableUnit": "unknown",
+    "offer": "confirmation-required",
+    "OEMApproval": "unknown",
+    "sourceSku": null,
+    "sourceCallout": "85",
+    "searchAliases": [
+      "Beater Paddles",
+      "Figure 2 item 85",
+      "item 85",
+      "beater paddle",
+      "beater paddles",
+      "rooster comb paddle",
+      "rooster comb paddles"
+    ],
+    "sourceRevision": "conestoga-2020-10-15",
+    "sourceFigure": "Figure 2 · table page 9 / drawing page 10 · combined CM-25 / CM-50 table",
+    "sourceQuantity": 12,
+    "sellingUnit": "unknown",
+    "sourceRevisionLabel": "CM-25 / CM-50 manual · October 15, 2020"
+  }
+]

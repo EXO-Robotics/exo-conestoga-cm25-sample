@@ -1,0 +1,101 @@
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;background:#ecebe7;color:#202a2b;font:14px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}body{overflow-x:hidden}.sales-header{height:98px;padding:19px 28px;display:flex;align-items:center;justify-content:space-between;gap:18px;background:#faf9f6;border-bottom:1px solid #d8d8d1}.sales-header h1{font-size:27px;letter-spacing:-.8px;margin:4px 0}.sales-header p{margin:0;color:#717974;font-size:12px}.brand-label{text-transform:uppercase;letter-spacing:2px;color:#5a685e;font-size:10px;font-weight:650}.sales-header a{color:#324638;text-decoration:none;font-size:12px}.minimal-viewer .viewer.workspace{height:calc(100dvh - 98px);min-height:480px;margin:0;border:0;border-radius:0;background:#ecebe7;overflow:hidden}.minimal-viewer .viewer .viewport{position:absolute;left:0}.sales-card.part-inspector{background:#faf9f6;color:#202a2b;padding:21px 23px;border:1px solid #d0d4cc;border-radius:14px;box-shadow:0 12px 40px #25322918}.sales-card[hidden]{display:none}.card-close{position:absolute;right:11px;top:8px;border:0;background:transparent;color:#627067;font-size:25px;cursor:pointer}.card-eyebrow{font-size:10px;text-transform:uppercase;letter-spacing:1.6px;color:#707970;margin:0 0 7px}.sales-card h2{font-size:23px;font-weight:600;letter-spacing:-.6px;margin:0 0 10px}.part-reference{font-size:13px;font-weight:600;margin:0 0 7px}.part-configuration,.part-fit,.part-quantity,.part-note{font-size:12px;line-height:1.45;margin:5px 0;color:#627067}.part-action{display:block;background:#304c39;color:#fff!important;text-align:center;padding:12px 15px;border-radius:8px;text-decoration:none;margin-top:15px;font-weight:600;min-height:44px}.part-source{display:inline-block;color:#546450;font-size:11px;margin-top:10px}.layer-toolbar{z-index:8}.minimal-viewer .viewer.workspace[data-exploration-mode=cad]{--explorer-controls-height:116px}.loading-label{position:absolute;top:45%;left:0;right:0;text-align:center;color:#778277}.sales-header{animation:appear .45s ease both}.sales-card{animation:appear .22s ease both}button,a{transition:background .16s,color .16s,opacity .16s}button:focus-visible,a:focus-visible{outline:2px solid #446b4e;outline-offset:3px}@keyframes appear{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}@media(max-width:600px){.sales-header{height:92px;padding:13px 16px}.sales-header h1{font-size:22px}.sales-header a{font-size:11px}.minimal-viewer .viewer.workspace{height:calc(100dvh - 92px);min-height:500px}.sales-card.part-inspector{padding:13px 16px;border-radius:12px}.sales-card h2{font-size:19px;margin-bottom:6px}.part-action{margin-top:9px;padding:11px}.part-configuration,.part-fit,.part-quantity,.part-note{font-size:11px;margin:4px 0}}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
+.minimal-viewer .sales-card.part-inspector>*{display:block!important}.v7-viewer .exploration-shell{background:linear-gradient(#faf9f6ee,#faf9f6c9,transparent)}.v7-viewer .exploration-shell button{color:#273a2c;background:#faf9f6;border-color:#c7cec4}.v7-viewer .exploration-modes button[aria-pressed=true]{background:#304c39;color:#fff}.v7-viewer .exploration-children .assembly-chip{background:#f9faf6e8}.v7-viewer .exploration-path button[aria-current]{color:#304c39}.v7-viewer .exploration-display,.v7-viewer .exploration-notice,.v7-viewer .path-separator{color:#596657}.v7-viewer .layer-toolbar button,.v7-viewer .layer-home{background:#304338;border-color:#c4cec4;color:white}.v7-viewer .exploration-part-dialog{background:#faf9f6;color:#233328;border-color:#c5cec4}.v7-viewer #part-search-input{color:#233328;background:#fff;border-color:#c5cec4}.v7-viewer .part-search-result{color:#233328;border-color:#d1d8ce}.v7-viewer .part-search-result:hover{background:#edf1e9}.v7-viewer .part-search-machine,.v7-viewer .part-search-label,.v7-viewer .part-search-count,.v7-viewer .part-search-number,.v7-viewer .exploration-license,.v7-viewer #close-part-search{color:#5b6859}
+.v7-viewer [data-exploration-mode=showcase] .exploration-display::before{content:"Assembled preview · ";font-weight:600}
+/* Candidate shared source-card and confirmation surface. */
+.minimal-viewer .viewer.workspace{min-height:0}
+.minimal-viewer .sales-card.part-inspector{width:380px;height:min(58%,450px);max-height:none;overflow:hidden!important;padding:18px;background:#faf9f6}
+.minimal-viewer .sales-card.part-inspector>#farmbot-commerce,.sales-card .part-card-primary{display:flex!important;flex-direction:column;height:100%;min-height:0}
+.sales-card .part-card-heading{flex:none;padding-right:28px}
+.sales-card .part-card-heading h2{font-size:21px;line-height:1.15;margin:0 0 6px}
+.sales-card .part-card-heading .part-reference{font-size:12px;line-height:1.35;margin:0;overflow-wrap:anywhere;color:#293c2e}
+.sales-card .part-card-heading p{font-size:11px;line-height:1.35;margin:4px 0}
+.sales-card .part-card-scroll{flex:1;min-height:45px;overflow:auto;overscroll-behavior:contain;margin-top:10px;padding-right:6px;scrollbar-width:thin;font-size:12px;line-height:1.45}
+.sales-card .part-card-scroll p{margin:0 0 9px;overflow-wrap:anywhere}
+.sales-card .part-card-scroll .part-action{background:none;color:#304c39!important;text-align:left;padding:4px 0;min-height:32px;margin:0 0 7px;text-decoration:underline;font-weight:500}
+.sales-card .part-card-scroll .part-warnings{padding-left:16px;margin:4px 0 12px;color:#575f51}
+.sales-card .part-card-scroll li+li{margin-top:7px}
+.sales-card .part-card-details summary{cursor:pointer;min-height:36px;padding:8px 0;font-weight:600}
+.sales-card .part-card-actions{flex:none;padding-top:8px;background:#faf9f6}
+.sales-card .part-action{width:100%;font:inherit;border:0;cursor:pointer;margin:0;min-height:44px;padding:10px}
+.sales-card .part-share{display:block;width:100%;font-size:11px;min-height:32px;border:0;background:none;color:#304c39;cursor:pointer;text-decoration:underline}
+.sales-card .card-close{width:40px;height:40px;top:7px;right:7px;z-index:2}
+.sales-card .part-mapping{font-size:11px;color:#677063}
+.sales-card .task-instruction{font-weight:600;color:#334b39}
+.sales-link-notice{position:absolute;z-index:9;top:0;left:0;right:0;margin:0;padding:12px 20px;background:#fff3cc;color:#594420;line-height:1.4}
+.has-link-notice .exploration-shell{padding-top:86px}
+.guided-task{display:flex;align-items:center;gap:8px;margin-top:8px;pointer-events:auto;max-width:680px}
+.guided-task label{font-size:11px;color:#52654d;flex:none}
+.guided-task select{font:inherit;font-size:12px;min-height:36px;min-width:0;flex:1;max-width:370px;background:#faf9f6;color:#293f30;border:1px solid #bac8b7;border-radius:6px;padding:6px}
+.v7-viewer .guided-task button{font-size:12px;min-height:36px;padding:6px 12px;background:#304c39;color:white}
+.has-selection .guided-task{display:none}
+.fallback-label{max-width:440px;left:20px;right:20px;margin:0 auto;line-height:1.7;color:#5b6b5a}
+.list-only.has-selection .fallback-label{display:none}
+.confirmation-dialog{width:min(620px,calc(100% - 24px));max-height:calc(100dvh - 24px);margin:auto;border:1px solid #c5cec4;border-radius:12px;padding:22px;background:#faf9f6;color:#243629;overflow:auto;box-shadow:0 20px 90px #0005}
+.confirmation-dialog::backdrop{background:#14201acc}
+.confirmation-dialog .part-search-header h2{font-size:22px;margin:0}
+.confirmation-dialog .part-search-header button{font-size:25px;width:44px;height:44px;flex:none;border:0;background:none;color:#4d614e;cursor:pointer}
+.request-intro,.request-boundary{font-size:12px;line-height:1.45;color:#5c6a5c}
+.request-fields{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:16px 0}
+.request-fields label,.draft-label{font-size:12px;display:block;font-weight:600}
+.request-fields input,.confirmation-dialog textarea{font:inherit;width:100%;border:1px solid #b7c4b5;border-radius:6px;min-height:42px;padding:9px;background:white;color:#203323;margin-top:5px}
+.request-fields label:nth-child(n+3){grid-column:1/-1}
+.confirmation-dialog textarea{font-size:12px;line-height:1.5;resize:vertical;min-height:120px}
+.request-actions{display:flex;gap:10px;position:sticky;bottom:-22px;padding:12px 0;background:#faf9f6;align-items:center}
+.request-actions .part-action{border:0;cursor:pointer;font:inherit;margin:0;flex:1}
+.request-actions .part-share{border:0;background:none;color:#304c39;text-decoration:underline;min-height:44px;cursor:pointer}
+.request-route{color:#304c39;font-size:12px;display:inline-block;padding:10px 0}
+@media(max-width:760px){
+ .minimal-viewer .viewer.workspace{height:calc(100dvh - 92px)}
+ .minimal-viewer .sales-card.part-inspector{inset:auto 10px 10px!important;width:auto;height:min(49%,300px);padding:12px;border-radius:10px}
+ .sales-card .part-card-heading h2{font-size:18px;line-height:1.1;margin-bottom:4px}
+ .sales-card .part-card-heading .part-reference{font-size:11px;line-height:1.25}
+ .sales-card .part-card-heading .card-eyebrow,.sales-card .part-card-heading .part-callout{display:none}
+ .sales-card .part-card-scroll{margin-top:7px;font-size:11px;line-height:1.4;min-height:35px}
+ .sales-card .part-card-actions{padding-top:6px}
+ .sales-card .part-action{font-size:12px;min-height:40px;padding:9px 6px}
+ .sales-card .part-share{min-height:28px}
+ .v7-viewer .has-selection .exploration-children,.v7-viewer .has-selection .exploration-notice{display:none}
+ .v7-viewer .has-selection .exploration-shell{padding:8px 10px 6px}
+ .v7-viewer .has-selection .exploration-path button{max-width:170px;min-height:25px;font-size:11px}
+ .v7-viewer .has-selection .viewport,.v7-viewer .has-selection #viewport{height:calc(100% - var(--explorer-shell-height) - var(--snippet-height) - 65px)!important;min-height:1px}
+ .v7-viewer .has-selection .layer-toolbar{left:10px;right:10px;bottom:calc(var(--snippet-height) + 18px);gap:6px}
+ .v7-viewer .has-selection .layer-toolbar button{min-height:38px;font-size:12px;padding:7px}
+ .v7-viewer .has-selection .layer-home{display:none}
+ .guided-task{flex-wrap:wrap;gap:5px}
+ .guided-task label{width:100%}
+ .guided-task select{font-size:11px}
+ .confirmation-dialog{padding:16px}
+ .request-fields{grid-template-columns:1fr;gap:9px}
+ .request-actions{bottom:-16px}
+ .confirmation-dialog .part-search-header h2{font-size:19px}
+}
+
+.part-secondary-actions{display:flex;align-items:center;justify-content:space-between;gap:8px}.sales-card .part-secondary-actions .part-share{width:auto;text-align:left;flex:1;font-size:10px}.part-brief{color:#304c39;font-size:10px;text-decoration:underline;display:flex;align-items:center;min-height:28px}
+
+@media(max-width:760px){.has-cad-scope .guided-task{display:none}}
+
+/* The shared selected layout owns the viewport height, including legacy job styles. */
+@media(max-width:760px){.minimal-viewer .viewer.workspace.has-selection{min-height:0!important}}
+
+/* When readable pinned text exceeds a compact card, show an explicit details
+   surface. The original model state remains available through Back to machine. */
+.part-details-help{display:none}
+.minimal-viewer .sales-card.part-inspector.part-details-view{position:fixed!important;inset:10px 10px 10px auto!important;width:380px;height:auto!important;max-height:none!important;z-index:40;display:flex;flex-direction:column;animation:none}
+.minimal-viewer .sales-card.part-details-view .part-details-banner{display:flex!important;flex:none;align-items:center;justify-content:space-between;gap:12px;min-height:44px;margin-bottom:10px;color:#52654d;font-size:1rem}
+.sales-card.part-details-view #close-inspector{position:static;flex:none;width:auto;height:auto;min-height:44px;padding:8px;border:1px solid #b9c6b5;border-radius:6px;font-size:1rem;color:#294331;white-space:normal}
+.minimal-viewer .sales-card.part-inspector.part-details-view>#farmbot-commerce{height:auto!important;flex:1;min-height:0}
+.sales-card.part-details-view .part-card-heading{padding-right:0}
+.sales-card.part-details-view .part-card-scroll{min-height:40px;scroll-padding:8px}
+.sales-card.part-details-view .part-details-help{display:block;margin-bottom:12px;font-size:1rem;line-height:1.4;color:#5b6b57}
+.sales-card.part-details-view .part-card-scroll .card-eyebrow,.sales-card.part-details-view .part-card-scroll .part-callout{display:block}
+.sales-card.part-details-view .part-secondary-actions{flex-direction:column;align-items:stretch;gap:8px;margin:16px 0}
+.sales-card.part-details-view .part-secondary-actions .part-share,.sales-card.part-details-view .part-brief{min-height:44px;text-align:left;overflow-wrap:anywhere}
+.part-details-mode .exploration-shell,.part-details-mode .layer-toolbar,.part-details-mode .layer-home,.part-details-mode #viewport,.part-details-mode .loading-label{visibility:hidden!important;pointer-events:none!important}
+@media(max-width:760px){.minimal-viewer .sales-card.part-inspector.part-details-view{inset:10px!important;width:auto!important}}
+.minimal-viewer .sales-card.part-inspector .part-details-banner[hidden]{display:none!important}
+.has-link-notice .exploration-shell{padding-top:var(--selection-notice-height,86px)}
+.recover-service-reference{display:block;margin-top:8px;border:1px solid #987d39;border-radius:6px;padding:8px 10px;min-height:44px;background:#fff9e7;color:#4d3e1e;font:inherit;white-space:normal;cursor:pointer}
+.confirmation-dialog>#use-request-in-review-pack{width:100%;border:0;white-space:normal;font:inherit;line-height:1.35;min-height:44px;cursor:pointer}
+.part-location{font-weight:600;color:#304c39}
+
+.manufacturer-route-note{font-size:11px;line-height:1.35;color:#4e5b52;margin:6px 0}.sales-card .part-secondary-actions{flex-wrap:wrap}.sales-card .part-secondary-actions .part-share{min-height:32px}

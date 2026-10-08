@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "machine": "conestoga-cm25",
+  "sourceRevision": "conestoga-2020-10-15",
+  "sourceLabel": "CM-25 / CM-50 manual · October 15, 2020",
+  "tasks": [
+    {
+      "id": "beater-paddle",
+      "title": "Identify a replacement paddle",
+      "description": "Locate the rooster-comb paddle and prepare a request that keeps its hardware and selling-unit questions.",
+      "partId": "service-85",
+      "scopeLabel": "Rear beater · mapped reference",
+      "requestHint": "Confirm CMP-CS1002, Figure 2 item 85, for my CM-25 serial. I need the requested number entered separately, not automatically all twelve shown. Please confirm the supplied unit and separately invoiced required hardware."
+    },
+    {
+      "id": "beater-assembly-contents",
+      "title": "Check what a main beater includes",
+      "description": "Compare the main rotor with its separate paddles before asking what the replacement assembly supplies.",
+      "partId": "service-10",
+      "scopeLabel": "Rear beater · mapped assembly reference",
+      "requestHint": "Confirm CMP-CS10211 and whether the supplied main-beater assembly includes paddles, sleeves, bearings or hardware. Please avoid duplicating assembly contents as separate requested parts."
+    }
+  ]
+}
