@@ -2,7 +2,9 @@
 
 [Open the interactive sample](https://EXO-Robotics.github.io/exo-conestoga-cm25-sample/)
 
-Explore the machine, select a service item, and continue to the manufacturer's contact page or a checked parts-store reference. The guided example shows a useful starting task. You can also copy a confirmation request to send yourself.
+Identify the component and prepare a clearer parts enquiry. Open Conestoga’s contact page, then copy your selected-part details into your message. Confirm fit, quantity and supplied hardware with the manufacturer. The guided example shows a useful starting task. You can also copy a confirmation request to send yourself.
+
+Sample coverage: selected service components, with a guided rear-beater task. Other geometry provides machine context.
 
 This is an independent EXO demonstration using an approximate reconstruction from public references. It is not manufacturer engineering CAD, an endorsed catalog, or confirmation of replacement fit. Confirm serial/configuration applicability, the supplied unit and current availability with Conestoga Manufacturing before ordering. Opening a manufacturer link does not transfer your selected-part details automatically.
 
